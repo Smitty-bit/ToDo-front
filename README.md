@@ -1,2 +1,2 @@
 # ToDo-front
-frontend for odo app
+frontend for todo app
